@@ -4,8 +4,6 @@ Forked from [Frekele Helicopterizer](https://github.com/frekele/helicopterizer).
 
 #### Solution Open Source in Backup and Restore, for Docker Container in the Cloud Providers!
 
-[![Helicopterizer Image][HelicopterizerImage]][website]
-
 [![ImageLayers](https://badge.imagelayers.io/krustyhack/helicopterizer:latest.svg)](https://imagelayers.io/?images=krustyhack/helicopterizer:latest)
 
 [![CircleCI](https://circleci.com/gh/KrustyHack/helicopterizer.svg?style=svg)](https://circleci.com/gh/KrustyHack/helicopterizer)
