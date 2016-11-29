@@ -1,23 +1,20 @@
 # Helicopterizer
 
+Forked from [Frekele Helicopterizer](https://github.com/frekele/helicopterizer). Thanks !
+
 #### Solution Open Source in Backup and Restore, for Docker Container in the Cloud Providers!
 
 [![Helicopterizer Image][HelicopterizerImage]][website]
 
-[![ImageLayers](https://badge.imagelayers.io/frekele/helicopterizer:master.svg)](https://imagelayers.io/?images=frekele/helicopterizer:master)
+[![ImageLayers](https://badge.imagelayers.io/krustyhack/helicopterizer:latest.svg)](https://imagelayers.io/?images=krustyhack/helicopterizer:latest)
 
-[![Gitter](https://badges.gitter.im/frekele/helicopterizer.svg)](https://gitter.im/frekele/helicopterizer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Docker Pulls](https://img.shields.io/docker/pulls/frekele/helicopterizer.svg)](https://hub.docker.com/r/frekele/helicopterizer/)
-[![Docker Stars](https://img.shields.io/docker/stars/frekele/helicopterizer.svg)](https://hub.docker.com/r/frekele/helicopterizer/)
-[![Release](https://img.shields.io/github/release/frekele/helicopterizer.svg)](https://github.com/frekele/helicopterizer/releases/latest)
+[![Docker Pulls](https://img.shields.io/docker/pulls/krustyhack/helicopterizer.svg)](https://hub.docker.com/r/krustyhack/helicopterizer/)
+[![Docker Stars](https://img.shields.io/docker/stars/krustyhack/helicopterizer.svg)](https://hub.docker.com/r/krustyhack/helicopterizer/)
+[![Release](https://img.shields.io/github/release/krustyhack/helicopterizer.svg)](https://github.com/krustyhack/helicopterizer/releases/latest)
 
 
-[![Circle CI](https://circleci.com/gh/frekele/helicopterizer/tree/master.svg?style=shield)](https://circleci.com/gh/frekele/helicopterizer/tree/master)
-[![Build Status](https://travis-ci.org/frekele/helicopterizer.svg?branch=master)](https://travis-ci.org/frekele/helicopterizer)
-[![GitHub issues](https://img.shields.io/github/issues/frekele/helicopterizer.svg)](https://github.com/frekele/helicopterizer/issues)
-[![GitHub forks](https://img.shields.io/github/forks/frekele/helicopterizer.svg)](https://github.com/frekele/helicopterizer/network)
-[![GitHub stars](https://img.shields.io/github/stars/frekele/helicopterizer.svg)](https://github.com/frekele/helicopterizer/stargazers)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/frekele/helicopterizer/master/LICENSE)
+[![Circle CI](https://circleci.com/gh/krustyhack/helicopterizer/tree/master.svg?style=shield)](https://circleci.com/gh/krustyhack/helicopterizer/tree/master)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/krustyhack/helicopterizer/master/LICENSE)
 
 ## Backup and Restore for Docker Container
 
