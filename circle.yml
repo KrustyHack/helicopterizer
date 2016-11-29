@@ -9,16 +9,24 @@ machine:
 dependencies:
   override:
     - docker --version
-    - git clone https://github.com/sstephenson/bats.git
+    - docker build --rm=true -t krustyhack/helicopterizer .
 
 test:
   override:
     - docker --version
-    - docker build --rm=true -t krustyhack/helicopterizer .
 
 deployment:
-  hub:
+  stable:
     branch: master
     commands:
       - docker login -e $DOCKER_EMAIL -u $DOCKER_USER -p $DOCKER_PASS
-      - docker push krustyhack/helicopterizer
+      - docker tag krustyhack/helicopterizer krustyhack/helicopterizer:latest
+      - docker tag krustyhack/helicopterizer krustyhack/helicopterizer:stable
+      - docker push krustyhack/helicopterizer:latest
+      - docker push krustyhack/helicopterizer:stable
+  latest:
+    branch: devel
+    commands:
+      - docker login -e $DOCKER_EMAIL -u $DOCKER_USER -p $DOCKER_PASS
+      - docker tag krustyhack/helicopterizer krustyhack/helicopterizer:devel
+      - docker push krustyhack/helicopterizer:devel
