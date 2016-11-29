@@ -8,11 +8,6 @@ Forked from [Frekele Helicopterizer](https://github.com/frekele/helicopterizer).
 
 [![ImageLayers](https://badge.imagelayers.io/krustyhack/helicopterizer:latest.svg)](https://imagelayers.io/?images=krustyhack/helicopterizer:latest)
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/krustyhack/helicopterizer.svg)](https://hub.docker.com/r/krustyhack/helicopterizer/)
-[![Docker Stars](https://img.shields.io/docker/stars/krustyhack/helicopterizer.svg)](https://hub.docker.com/r/krustyhack/helicopterizer/)
-[![Release](https://img.shields.io/github/release/krustyhack/helicopterizer.svg)](https://github.com/krustyhack/helicopterizer/releases/latest)
-
-
 [![CircleCI](https://circleci.com/gh/KrustyHack/helicopterizer.svg?style=svg)](https://circleci.com/gh/KrustyHack/helicopterizer)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/krustyhack/helicopterizer/master/LICENSE)
 
