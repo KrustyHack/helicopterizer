@@ -13,7 +13,7 @@ Forked from [Frekele Helicopterizer](https://github.com/frekele/helicopterizer).
 [![Release](https://img.shields.io/github/release/krustyhack/helicopterizer.svg)](https://github.com/krustyhack/helicopterizer/releases/latest)
 
 
-[![Circle CI](https://circleci.com/gh/krustyhack/helicopterizer/tree/master.svg?style=shield)](https://circleci.com/gh/krustyhack/helicopterizer/tree/master)
+[![CircleCI](https://circleci.com/gh/KrustyHack/helicopterizer.svg?style=svg)](https://circleci.com/gh/KrustyHack/helicopterizer)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/krustyhack/helicopterizer/master/LICENSE)
 
 ## Backup and Restore for Docker Container
